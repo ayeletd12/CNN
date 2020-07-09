@@ -1,4 +1,4 @@
-#2 classes / Logistic Classification with Neural Network - CNN using neuralnet pa
+#2 classes / Logistic Classification with Neural Network - CNN using neuralnet packege
 #
 rm(list=ls(all.names=TRUE))
 memory.limit(size=56000)
